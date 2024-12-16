@@ -1,4 +1,4 @@
-ikroservis mimarisi kullanan bir **yazılım mimari örneği** olarak **bir e-ticaret sistemi** 
+Mikroservis mimarisi kullanan bir **yazılım mimari örneği** olarak **bir e-ticaret sistemi** 
 
 ### **E-Ticaret Sistemi (Mikroservis Mimarisi Örneği)**  
 
